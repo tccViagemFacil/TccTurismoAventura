@@ -1,0 +1,109 @@
+    *{
+        box-sizing: border-box;
+        font-family: 'Roboto', sans-serif;
+    }
+    body{
+        background-color: rgb(208, 238, 208);
+    }
+    p{
+        color:rgb(59, 65, 66);
+    }
+    
+    .container {
+        width: 100%;
+      }
+    #nosso{
+        text-align: center;
+        padding-left: 45%;
+        font-size: 3rem;
+        color:rgb(92, 85, 85)
+    }
+    #diferencial{
+        color: rgb(78, 199, 78);
+        text-align: center;
+        font-size: 3rem;
+        padding-right: 55%;
+    }
+    #user{
+        height: 8rem;
+        font-size: 18em;
+        color:rgb(59, 65, 66);
+        padding-left: 32px;
+    }
+    #guia{
+        padding-left: 73px;
+        color: rgb(78, 199, 78);
+
+    }
+    #comida{
+        height: 7rem;
+        font-size: 18em;
+        color:rgb(59, 65, 66);
+        padding-left: 30px;
+        
+    }
+    #alimentacao{
+        padding-left: 40px;
+        color: rgb(78, 199, 78);
+        
+    }
+    #cama{
+        height: 6rem;
+        font-size: 18em;
+        color:rgb(59, 65, 66);
+        padding-left: 38px;
+    }
+    #hospedagem{
+        padding-left: 38px;
+        color: rgb(78, 199, 78);
+
+    }
+    #carro{
+        height: 5rem;
+        font-size: 18em;
+        color:rgb(59, 65, 66);
+        padding-left: 46px; 
+        padding-right: 5rem;
+      
+    }
+    #roteiro{
+        padding-left: 55px;
+        padding-top: 10px;
+        color: rgb(78, 199, 78);
+    }
+    #foto{
+        height: 7rem;
+        font-size: 18em;
+        color:rgb(59, 65, 66);
+        padding-left: 130px;
+    }
+    #fotografia{
+        padding-left: 72px;
+        padding-top: 10px;
+        color: rgb(78, 199, 78);
+    }
+    #tripadivisor{
+        height: 8rem;
+        font-size: 18em;
+        color:rgb(59, 65, 66);
+        padding-left: 90px; 
+        padding-right: 5rem;
+      
+    }
+    #divisor{
+        padding-left: 100px;
+        color: rgb(78, 199, 78);
+    }
+    #mapa{
+        height: 6rem;
+        font-size: 18em;
+        color:rgb(59, 65, 66);
+        padding-left: 108px;
+    }
+    #cadastur{
+        padding-left: 120px;
+        padding-top: 10px;
+        color: rgb(78, 199, 78);
+    }
+    
+    
